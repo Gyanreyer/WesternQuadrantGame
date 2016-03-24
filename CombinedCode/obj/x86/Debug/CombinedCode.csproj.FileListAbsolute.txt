@@ -1,0 +1,387 @@
+C:\Users\Otaconnor\Documents\Visual Studio 2013\Projects\CombinedCode\CombinedCode\bin\Windows\Debug\CombinedCode.exe
+C:\Users\Otaconnor\Documents\Visual Studio 2013\Projects\CombinedCode\CombinedCode\bin\Windows\Debug\CombinedCode.pdb
+C:\Users\Otaconnor\Documents\Visual Studio 2013\Projects\CombinedCode\CombinedCode\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Otaconnor\Documents\Visual Studio 2013\Projects\CombinedCode\CombinedCode\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Otaconnor\Documents\Visual Studio 2013\Projects\CombinedCode\CombinedCode\bin\Windows\Debug\SharpDX.dll
+C:\Users\Otaconnor\Documents\Visual Studio 2013\Projects\CombinedCode\CombinedCode\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Otaconnor\Documents\Visual Studio 2013\Projects\CombinedCode\CombinedCode\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Otaconnor\Documents\Visual Studio 2013\Projects\CombinedCode\CombinedCode\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Otaconnor\Documents\Visual Studio 2013\Projects\CombinedCode\CombinedCode\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Otaconnor\Documents\Visual Studio 2013\Projects\CombinedCode\CombinedCode\bin\Windows\Debug\Lidgren.Network.dll
+C:\Users\Otaconnor\Documents\Visual Studio 2013\Projects\CombinedCode\CombinedCode\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Otaconnor\Documents\Visual Studio 2013\Projects\CombinedCode\CombinedCode\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Otaconnor\Documents\Visual Studio 2013\Projects\CombinedCode\CombinedCode\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Otaconnor\Documents\Visual Studio 2013\Projects\CombinedCode\CombinedCode\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Otaconnor\Documents\Visual Studio 2013\Projects\CombinedCode\CombinedCode\bin\Windows\Debug\SharpDX.xml
+C:\Users\Otaconnor\Documents\Visual Studio 2013\Projects\CombinedCode\CombinedCode\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Otaconnor\Documents\Visual Studio 2013\Projects\CombinedCode\CombinedCode\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Otaconnor\Documents\Visual Studio 2013\Projects\CombinedCode\CombinedCode\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Otaconnor\Documents\Visual Studio 2013\Projects\CombinedCode\CombinedCode\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Otaconnor\Documents\Visual Studio 2013\Projects\CombinedCode\CombinedCode\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Otaconnor\Documents\Visual Studio 2013\Projects\CombinedCode\CombinedCode\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Otaconnor\Documents\Visual Studio 2013\Projects\CombinedCode\CombinedCode\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Otaconnor\Documents\Visual Studio 2013\Projects\CombinedCode\CombinedCode\obj\x86\Debug\CombinedCode.csprojResolveAssemblyReference.cache
+C:\Users\Otaconnor\Documents\Visual Studio 2013\Projects\CombinedCode\CombinedCode\obj\x86\Debug\CombinedCode.exe
+C:\Users\Otaconnor\Documents\Visual Studio 2013\Projects\CombinedCode\CombinedCode\obj\x86\Debug\CombinedCode.pdb
+C:\Users\Otaconnor\Documents\Visual Studio 2013\Projects\CombinedCode\CombinedCode\bin\Windows\Debug\Content\Shot.png
+C:\Users\Otaconnor\Documents\Visual Studio 2013\Projects\CombinedCode\CombinedCode\bin\Windows\Debug\Content\TestSprite.png
+C:\Users\Otaconnor\Documents\Visual Studio 2013\Projects\CombinedCode\CombinedCode\bin\Windows\Debug\Content\Arial14.xnb
+D:\Ryan\Downloads\CombinedCode\CombinedCode\CombinedCode\obj\x86\Debug\CombinedCode.exe
+D:\Ryan\Downloads\CombinedCode\CombinedCode\CombinedCode\obj\x86\Debug\CombinedCode.pdb
+D:\Ryan\Downloads\CombinedCode\CombinedCode\CombinedCode\obj\x86\Debug\CombinedCode.csprojResolveAssemblyReference.cache
+D:\Ryan\Downloads\CombinedCode\CombinedCode\CombinedCode\bin\Windows\Debug\Content\Shot.png
+D:\Ryan\Downloads\CombinedCode\CombinedCode\CombinedCode\bin\Windows\Debug\Content\TestSprite.png
+D:\Ryan\Downloads\CombinedCode\CombinedCode\CombinedCode\bin\Windows\Debug\Content\Arial14.xnb
+D:\Ryan\Downloads\CombinedCode\CombinedCode\CombinedCode\bin\Windows\Debug\CombinedCode.exe
+D:\Ryan\Downloads\CombinedCode\CombinedCode\CombinedCode\bin\Windows\Debug\CombinedCode.pdb
+D:\Ryan\Downloads\CombinedCode\CombinedCode\CombinedCode\bin\Windows\Debug\MonoGame.Framework.dll
+D:\Ryan\Downloads\CombinedCode\CombinedCode\CombinedCode\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+D:\Ryan\Downloads\CombinedCode\CombinedCode\CombinedCode\bin\Windows\Debug\SharpDX.dll
+D:\Ryan\Downloads\CombinedCode\CombinedCode\CombinedCode\bin\Windows\Debug\SharpDX.XAudio2.dll
+D:\Ryan\Downloads\CombinedCode\CombinedCode\CombinedCode\bin\Windows\Debug\SharpDX.Direct3D11.dll
+D:\Ryan\Downloads\CombinedCode\CombinedCode\CombinedCode\bin\Windows\Debug\SharpDX.DXGI.dll
+D:\Ryan\Downloads\CombinedCode\CombinedCode\CombinedCode\bin\Windows\Debug\SharpDX.Direct2D1.dll
+D:\Ryan\Downloads\CombinedCode\CombinedCode\CombinedCode\bin\Windows\Debug\Lidgren.Network.dll
+D:\Ryan\Downloads\CombinedCode\CombinedCode\CombinedCode\bin\Windows\Debug\SharpDX.XInput.dll
+D:\Ryan\Downloads\CombinedCode\CombinedCode\CombinedCode\bin\Windows\Debug\SharpDX.RawInput.dll
+D:\Ryan\Downloads\CombinedCode\CombinedCode\CombinedCode\bin\Windows\Debug\SharpDX.Direct3D9.dll
+D:\Ryan\Downloads\CombinedCode\CombinedCode\CombinedCode\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+D:\Ryan\Downloads\CombinedCode\CombinedCode\CombinedCode\bin\Windows\Debug\SharpDX.xml
+D:\Ryan\Downloads\CombinedCode\CombinedCode\CombinedCode\bin\Windows\Debug\SharpDX.XAudio2.xml
+D:\Ryan\Downloads\CombinedCode\CombinedCode\CombinedCode\bin\Windows\Debug\SharpDX.Direct3D11.xml
+D:\Ryan\Downloads\CombinedCode\CombinedCode\CombinedCode\bin\Windows\Debug\SharpDX.DXGI.xml
+D:\Ryan\Downloads\CombinedCode\CombinedCode\CombinedCode\bin\Windows\Debug\SharpDX.Direct2D1.xml
+D:\Ryan\Downloads\CombinedCode\CombinedCode\CombinedCode\bin\Windows\Debug\SharpDX.XInput.xml
+D:\Ryan\Downloads\CombinedCode\CombinedCode\CombinedCode\bin\Windows\Debug\SharpDX.RawInput.xml
+D:\Ryan\Downloads\CombinedCode\CombinedCode\CombinedCode\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Otaconnor\Desktop\CombinedCodeV3 - Ryan\CombinedCode\obj\x86\Debug\CombinedCode.exe
+C:\Users\Otaconnor\Desktop\CombinedCodeV3 - Ryan\CombinedCode\obj\x86\Debug\CombinedCode.pdb
+C:\Users\Otaconnor\Desktop\CombinedCodeV3 - Ryan\CombinedCode\bin\Windows\Debug\Content\Shot.png
+C:\Users\Otaconnor\Desktop\CombinedCodeV3 - Ryan\CombinedCode\bin\Windows\Debug\Content\TestSprite.png
+C:\Users\Otaconnor\Desktop\CombinedCodeV3 - Ryan\CombinedCode\bin\Windows\Debug\Content\Arial14.xnb
+C:\Users\Otaconnor\Desktop\CombinedCodeV3 - Ryan\CombinedCode\bin\Windows\Debug\CombinedCode.exe
+C:\Users\Otaconnor\Desktop\CombinedCodeV3 - Ryan\CombinedCode\bin\Windows\Debug\CombinedCode.pdb
+C:\Users\Otaconnor\Desktop\CombinedCodeV3 - Ryan\CombinedCode\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Otaconnor\Desktop\CombinedCodeV3 - Ryan\CombinedCode\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Otaconnor\Desktop\CombinedCodeV3 - Ryan\CombinedCode\bin\Windows\Debug\SharpDX.dll
+C:\Users\Otaconnor\Desktop\CombinedCodeV3 - Ryan\CombinedCode\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Otaconnor\Desktop\CombinedCodeV3 - Ryan\CombinedCode\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Otaconnor\Desktop\CombinedCodeV3 - Ryan\CombinedCode\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Otaconnor\Desktop\CombinedCodeV3 - Ryan\CombinedCode\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Otaconnor\Desktop\CombinedCodeV3 - Ryan\CombinedCode\bin\Windows\Debug\Lidgren.Network.dll
+C:\Users\Otaconnor\Desktop\CombinedCodeV3 - Ryan\CombinedCode\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Otaconnor\Desktop\CombinedCodeV3 - Ryan\CombinedCode\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Otaconnor\Desktop\CombinedCodeV3 - Ryan\CombinedCode\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Otaconnor\Desktop\CombinedCodeV3 - Ryan\CombinedCode\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Otaconnor\Desktop\CombinedCodeV3 - Ryan\CombinedCode\bin\Windows\Debug\SharpDX.xml
+C:\Users\Otaconnor\Desktop\CombinedCodeV3 - Ryan\CombinedCode\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Otaconnor\Desktop\CombinedCodeV3 - Ryan\CombinedCode\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Otaconnor\Desktop\CombinedCodeV3 - Ryan\CombinedCode\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Otaconnor\Desktop\CombinedCodeV3 - Ryan\CombinedCode\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Otaconnor\Desktop\CombinedCodeV3 - Ryan\CombinedCode\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Otaconnor\Desktop\CombinedCodeV3 - Ryan\CombinedCode\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Otaconnor\Desktop\CombinedCodeV3 - Ryan\CombinedCode\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Otaconnor\Desktop\CombinedCodeV3 - Ryan\CombinedCode\obj\x86\Debug\CombinedCode.csprojResolveAssemblyReference.cache
+C:\Users\Otaconnor\Desktop\CombinedCodeV3 - Ryan\CombinedCode\bin\Windows\Debug\Content\basicGroundBlock.png
+C:\Users\Otaconnor\Desktop\CombinedCodeV3 - Ryan\CombinedCode\bin\Windows\Debug\Content\basicMap.txt
+C:\Users\Otaconnor\Desktop\CombinedCodeV3 - Ryan\CombinedCode\bin\Windows\Debug\Content\basicObstacleBlock.png
+D:\Users\axe6801\Desktop\SVN man\CombinedCode\obj\x86\Debug\CombinedCode.exe
+D:\Users\axe6801\Desktop\SVN man\CombinedCode\obj\x86\Debug\CombinedCode.pdb
+D:\Users\axe6801\Desktop\SVN man\CombinedCode\bin\Windows\Debug\Content\basicGroundBlock.png
+D:\Users\axe6801\Desktop\SVN man\CombinedCode\bin\Windows\Debug\Content\basicMap.txt
+D:\Users\axe6801\Desktop\SVN man\CombinedCode\bin\Windows\Debug\Content\basicObstacleBlock.png
+D:\Users\axe6801\Desktop\SVN man\CombinedCode\bin\Windows\Debug\Content\Shot.png
+D:\Users\axe6801\Desktop\SVN man\CombinedCode\bin\Windows\Debug\Content\TestSprite.png
+D:\Users\axe6801\Desktop\SVN man\CombinedCode\bin\Windows\Debug\Content\Arial14.xnb
+D:\Users\axe6801\Desktop\SVN man\CombinedCode\bin\Windows\Debug\CombinedCode.exe
+D:\Users\axe6801\Desktop\SVN man\CombinedCode\bin\Windows\Debug\CombinedCode.pdb
+D:\Users\axe6801\Desktop\SVN man\CombinedCode\bin\Windows\Debug\MonoGame.Framework.dll
+D:\Users\axe6801\Desktop\SVN man\CombinedCode\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+D:\Users\axe6801\Desktop\SVN man\CombinedCode\bin\Windows\Debug\SharpDX.dll
+D:\Users\axe6801\Desktop\SVN man\CombinedCode\bin\Windows\Debug\SharpDX.XAudio2.dll
+D:\Users\axe6801\Desktop\SVN man\CombinedCode\bin\Windows\Debug\SharpDX.Direct3D11.dll
+D:\Users\axe6801\Desktop\SVN man\CombinedCode\bin\Windows\Debug\SharpDX.DXGI.dll
+D:\Users\axe6801\Desktop\SVN man\CombinedCode\bin\Windows\Debug\SharpDX.Direct2D1.dll
+D:\Users\axe6801\Desktop\SVN man\CombinedCode\bin\Windows\Debug\Lidgren.Network.dll
+D:\Users\axe6801\Desktop\SVN man\CombinedCode\bin\Windows\Debug\SharpDX.XInput.dll
+D:\Users\axe6801\Desktop\SVN man\CombinedCode\bin\Windows\Debug\SharpDX.RawInput.dll
+D:\Users\axe6801\Desktop\SVN man\CombinedCode\bin\Windows\Debug\SharpDX.Direct3D9.dll
+D:\Users\axe6801\Desktop\SVN man\CombinedCode\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+D:\Users\axe6801\Desktop\SVN man\CombinedCode\bin\Windows\Debug\SharpDX.xml
+D:\Users\axe6801\Desktop\SVN man\CombinedCode\bin\Windows\Debug\SharpDX.XAudio2.xml
+D:\Users\axe6801\Desktop\SVN man\CombinedCode\bin\Windows\Debug\SharpDX.Direct3D11.xml
+D:\Users\axe6801\Desktop\SVN man\CombinedCode\bin\Windows\Debug\SharpDX.DXGI.xml
+D:\Users\axe6801\Desktop\SVN man\CombinedCode\bin\Windows\Debug\SharpDX.Direct2D1.xml
+D:\Users\axe6801\Desktop\SVN man\CombinedCode\bin\Windows\Debug\SharpDX.XInput.xml
+D:\Users\axe6801\Desktop\SVN man\CombinedCode\bin\Windows\Debug\SharpDX.RawInput.xml
+D:\Users\axe6801\Desktop\SVN man\CombinedCode\bin\Windows\Debug\SharpDX.Direct3D9.xml
+D:\Users\axe6801\Desktop\SVN man\CombinedCode\obj\x86\Debug\CombinedCode.csprojResolveAssemblyReference.cache
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\obj\x86\Debug\CombinedCode.exe
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\obj\x86\Debug\CombinedCode.pdb
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\Content\basicGroundBlock.png
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\Content\basicObstacleBlock.png
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\Content\TestSprite.png
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\Content\Arial14.xnb
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\CombinedCode.exe
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\CombinedCode.pdb
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\SharpDX.dll
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\Lidgren.Network.dll
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\SharpDX.xml
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\obj\x86\Debug\CombinedCode.csprojResolveAssemblyReference.cache
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\Content\EnemyTest.png
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\obj\x86\Debug\CombinedCode.exe
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\obj\x86\Debug\CombinedCode.pdb
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\obj\x86\Debug\CombinedCode.csprojResolveAssemblyReference.cache
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Content\EnemyTest.png
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Content\basicGroundBlock.png
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Content\basicObstacleBlock.png
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Content\TestSprite.png
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Content\Arial14.xnb
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\CombinedCode.exe
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\CombinedCode.pdb
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\MonoGame.Framework.dll
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\SharpDX.dll
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\SharpDX.XAudio2.dll
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\SharpDX.Direct3D11.dll
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\SharpDX.DXGI.dll
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\SharpDX.Direct2D1.dll
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Lidgren.Network.dll
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\SharpDX.XInput.dll
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\SharpDX.RawInput.dll
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\SharpDX.Direct3D9.dll
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\SharpDX.xml
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\SharpDX.XAudio2.xml
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\SharpDX.Direct3D11.xml
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\SharpDX.DXGI.xml
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\SharpDX.Direct2D1.xml
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\SharpDX.XInput.xml
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\SharpDX.RawInput.xml
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\SharpDX.Direct3D9.xml
+D:\Users\axe6801\Desktop\SVN man\CombinedCode\bin\Windows\Debug\Content\EnemyTest.png
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\Content\SpriteSheetGunslinger.png
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\0PlainWhite.png
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\building01.png
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\building02.png
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\grass.png
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\road01.png
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\road02.png
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\road03.png
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\road04.png
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\road05.png
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\road06.png
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\road07.png
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\road08.png
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\road09.png
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\road10.png
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\road11.png
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\shop01.png
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\shop02.png
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\shop03.png
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\Content\Levels\caverns.txt
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\Content\Levels\island.txt
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\DirtGround.png
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\Mt1.png
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\Mt2-1.png
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\Mt2-2.png
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\RockWall.png
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\slime.png
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\Tree.png
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\u_IceGround.png
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\u_IcePit1.png
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\u_IcePit2.png
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\u_IceWall.png
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\u_IceWater.png
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\Volcano.png
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\v_Lava.png
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\v_LavaGround.png
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\Water.png
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\WaterWithBoat.png
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\Content\Audio\M4A1_Shot.wav
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\Content\Audio\M4A1_Shot.xnb
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\Content\Audio\Wilhelm.xnb
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Content\Audio\M4A1_Shot.wav
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Content\Levels\caverns.txt
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Content\Levels\island.txt
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\0PlainWhite.png
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\building01.png
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\building02.png
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\DirtGround.png
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\grass.png
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\Mt1.png
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\Mt2-1.png
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\Mt2-2.png
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\road01.png
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\road02.png
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\road03.png
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\road04.png
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\road05.png
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\road06.png
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\road07.png
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\road08.png
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\road09.png
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\road10.png
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\road11.png
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\RockWall.png
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\shop01.png
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\shop02.png
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\shop03.png
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\slime.png
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\Tree.png
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\u_IceGround.png
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\u_IcePit1.png
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\u_IcePit2.png
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\u_IceWall.png
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\u_IceWater.png
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\Volcano.png
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\v_Lava.png
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\v_LavaGround.png
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\Water.png
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\WaterWithBoat.png
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Content\SpriteSheetGunslinger.png
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Content\Audio\M4A1_Shot.xnb
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Content\Audio\Wilhelm.xnb
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\Content\Audio\MeinLeben.xnb
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\Content\Levels\RuinedCity.txt
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\Content\ShotEnemy.png
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\Content\ShotPlayer.png
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\Content\Levels\IslandsArena.txt
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\Content\Levels\IcePath.txt
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Content\Levels\IcePath.txt
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Content\Levels\IslandsArena.txt
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Content\Levels\RuinedCity.txt
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Content\Audio\MeinLeben.xnb
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Content\ShotEnemy.png
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Content\ShotPlayer.png
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\Content\Audio\M4A1_Shot.wav
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\Content\EnemyTest.png
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\Content\Levels\caverns.txt
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\Content\Levels\RuinedCity.txt
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\0PlainWhite.png
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\building01.png
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\building02.png
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\DirtGround.png
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\grass.png
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\Mt1.png
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\Mt2-1.png
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\Mt2-2.png
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\road01.png
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\road02.png
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\road03.png
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\road04.png
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\road05.png
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\road06.png
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\road07.png
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\road08.png
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\road09.png
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\road10.png
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\road11.png
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\RockWall.png
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\shop01.png
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\shop02.png
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\shop03.png
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\Content\Levels\MapWithPlayerSpawn.txt
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\slime.png
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\Tree.png
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\u_IceGround.png
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\u_IcePit1.png
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\u_IcePit2.png
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\u_IceWall.png
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\u_IceWater.png
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\Volcano.png
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\v_Lava.png
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\v_LavaGround.png
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\Water.png
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\Content\MapTiles1(City)\WaterWithBoat.png
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\Content\SpriteSheetGunslinger.png
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\Content\Audio\M4A1_Shot.xnb
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\Content\Audio\Wilhelm.xnb
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\Content\Audio\MeinLeben.xnb
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\Content\Levels\IcePath.txt
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\Content\Levels\island.txt
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\Content\Levels\IslandsArena.txt
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\Content\basicGroundBlock.png
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\Content\Levels\basicMap.txt
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\Content\basicObstacleBlock.png
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\Content\ShotEnemy.png
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\Content\ShotPlayer.png
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\Content\TestSprite.png
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\Content\Arial14.xnb
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\CombinedCode.exe
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\CombinedCode.pdb
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\MonoGame.Framework.dll
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\SharpDX.dll
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\SharpDX.XAudio2.dll
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\SharpDX.Direct3D11.dll
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\SharpDX.DXGI.dll
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\SharpDX.Direct2D1.dll
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\Lidgren.Network.dll
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\SharpDX.XInput.dll
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\SharpDX.RawInput.dll
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\SharpDX.Direct3D9.dll
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\SharpDX.xml
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\SharpDX.XAudio2.xml
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\SharpDX.Direct3D11.xml
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\SharpDX.DXGI.xml
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\SharpDX.Direct2D1.xml
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\SharpDX.XInput.xml
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\SharpDX.RawInput.xml
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\bin\Windows\Debug\SharpDX.Direct3D9.xml
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\obj\x86\Debug\CombinedCode.csprojResolveAssemblyReference.cache
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\obj\x86\Debug\CombinedCode.exe
+D:\Users\axe6801.MAIN\Desktop\SVN\CombinedCode\obj\x86\Debug\CombinedCode.pdb
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\Content\GunslingDieSS.png
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\Content\BloodSpatterSS.png
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\Content\gunshotSS.png
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Content\GunslingDieSS.png
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Content\BloodSpatterSS.png
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Content\gunshotSS.png
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\Content\MenuImages\Logo1.png
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\Content\MenuImages\Logo2.png
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\Content\MenuImages\planet.png
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\Content\MenuImages\planetOnSpace.jpg
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\Content\MenuImages\Quit.png
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\Content\MenuImages\QuitToDesktop.png
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\Content\MenuImages\QuitToMenu.png
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\Content\MenuImages\Resume.png
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\Content\MenuImages\SelectLevel.png
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\Content\MenuImages\space.jpg
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Content\MenuImages\Logo1.png
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Content\MenuImages\Logo2.png
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Content\MenuImages\planet.png
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Content\MenuImages\planetOnSpace.jpg
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Content\MenuImages\Quit.png
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Content\MenuImages\QuitToDesktop.png
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Content\MenuImages\QuitToMenu.png
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Content\MenuImages\Resume.png
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Content\MenuImages\SelectLevel.png
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Content\MenuImages\space.jpg
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\Content\MenuImages\Results.png
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\Content\Reticle.png
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\Content\Levels\The Institute.txt
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Content\Levels\The Institute.txt
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Content\MenuImages\Results.png
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Content\Reticle.png
+C:\Users\AlexanderEarley\Desktop\SVN Folder\CombinedCode\bin\Windows\Debug\Content\Levels\The Forest.txt
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Content\Levels\The Forest.txt
+D:\Ryan\Documents\GDAPS 2 Game\subatomicjazzignition\CombinedCode\bin\Windows\Debug\Content\highscores.txt
