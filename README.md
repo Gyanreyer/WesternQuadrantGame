@@ -1,4 +1,4 @@
-# WesternQuadrantGame
+# Western Quadrant Game
 An isometric shooter game I made with two fellow students as a class project for Game Development and Algorithmic Problem Solving II.
 
 This game was created in C# using the MonoGame framework.
